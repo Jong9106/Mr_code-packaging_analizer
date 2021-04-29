@@ -11,11 +11,14 @@ This mobile application seeks to demonstrate what we learned in the course "Deep
 
 This packaging analyzer scans a photo and determines the company in charge of the transport, the type of packaging and an estimate of the price that the shipment will cost.
 
+![enter image description here](https://i.imgur.com/3PGndHJ.png)
+
 ## Stack
 - Flutter
 - Dart
 - Python 3.7
 - Teacheble Machine
+
 
 ## Authors
  
