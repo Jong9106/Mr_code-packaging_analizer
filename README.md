@@ -1,35 +1,16 @@
-![enter image description here](https://i.imgur.com/6uznI0P.png)
-# Mr_code
+# deep_app_mr_code
 
- Creative and software development group, with the mission of solving the needs and challenges that each project has ...
+A new Flutter application.
 
-Our skills complement each other, from the design stage to the product development and implementation.
+## Getting Started
 
-## < Packaging Analizer >
+This project is a starting point for a Flutter application.
 
-This mobile application seeks to demonstrate what we learned in the course "Deep Learning Course with Flutter & Python"
+A few resources to get you started if this is your first Flutter project:
 
-This packaging analyzer scans a photo and determines the company in charge of the transport, the type of packaging and an estimate of the price that the shipment will cost.
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-![enter image description here](https://i.imgur.com/3PGndHJ.png)
-### Interactive Prototype
-[App: < Packaging Analizer >](https://www.figma.com/proto/c3xWkxy23gVmVw7xOf4ZBl/Material-Baseline-Design-Kit-Community?node-id=4:5824&scaling=scale-down&page-id=4:0)
-
-## Stack
-- Flutter
-- Dart
-- Python 3.7
-- Teacheble Machine
-
-
-## Authors
- 
- - **Andres Sotelo Durán**: Twitter - [@looperdesignco](https://twitter.com/looperdesignco)
- - **Juan Carlos Hernández** : Twitter - [@luigi_jong](https://twitter.com/luigi_jong)
- - **Leonardo Valencia**: Twitter - [@leovalsan_dev](https://twitter.com/leovalsan_dev)
- 
-##  info
-
- - Date 28/03/2021
- - Holberton school Colombia 
- - Cohort #13 BOG0920
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
