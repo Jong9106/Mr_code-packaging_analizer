@@ -5,13 +5,15 @@
 
 Our skills complement each other, from the design stage to the product development and implementation.
 
-## < Packaging analizer >
+## < Packaging Analizer >
 
 This mobile application seeks to demonstrate what we learned in the course "Deep Learning Course with Flutter & Python"
 
 This packaging analyzer scans a photo and determines the company in charge of the transport, the type of packaging and an estimate of the price that the shipment will cost.
 
 ![enter image description here](https://i.imgur.com/3PGndHJ.png)
+### Interactive Prototype
+[App: < Packaging Analizer >](https://www.figma.com/proto/c3xWkxy23gVmVw7xOf4ZBl/Material-Baseline-Design-Kit-Community?node-id=4:5824&scaling=scale-down&page-id=4:0)
 
 ## Stack
 - Flutter
